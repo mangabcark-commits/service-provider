@@ -1,0 +1,22 @@
+export const indiaCities = [
+  'Agartala','Agra','Ahmedabad','Aizawl','Ajmer','Alappuzha','Aligarh','Allahabad','Alwar','Amaravati',
+  'Amritsar','Anand','Anantapur','Arrah','Asansol','Aurangabad','Ayodhya','Bagdogra','Balasore','Ballari',
+  'Bengaluru','Berhampur','Bhagalpur','Bharatpur','Bharuch','Bhatinda','Bhavnagar','Bhilai','Bhilwara','Bhiwandi',
+  'Bhopal','Bhubaneswar','Bhuj','Bidar','Bikaner','Bilaspur','Bokaro','Bulandshahr','Burdwan','Chandigarh',
+  'Chennai','Chhapra','Chhindwara','Chittoor','Coimbatore','Cuttack','Darbhanga','Davanagere','Dehradun','Deoghar',
+  'Dewas','Dhanbad','Dharwad','Dibrugarh','Dimapur','Dindigul','Durg','Eluru','Erode','Etawah',
+  'Faridabad','Fatehpur','Firozabad','Gandhinagar','Gangtok','Gaya','Ghaziabad','Goa','Gonda','Gorakhpur',
+  'Guntur','Gurugram','Guwahati','Gwalior','Hajipur','Haldwani','Hamirpur','Hanamkonda','Haridwar','Hisar',
+  'Hosur','Hubli','Hyderabad','Imphal','Indore','Itanagar','Jabalpur','Jaipur','Jalandhar','Jalgaon',
+  'Jammu','Jamnagar','Jamshedpur','Jhansi','Jodhpur','Jorhat','Junagadh','Kadapa','Kakinada','Kalaburagi',
+  'Kanchipuram','Kannur','Kanpur','Karimnagar','Karnal','Kasaragod','Katihar','Khammam','Kharagpur','Kochi',
+  'Kolhapur','Kolkata','Kollam','Kota','Kottayam','Kozhikode','Kurnool','Kurukshetra','Latur','Lucknow',
+  'Ludhiana','Madurai','Malappuram','Mangaluru','Mathura','Meerut','Mehsana','Mirzapur','Moradabad','Motihari',
+  'Mumbai','Muzaffarpur','Mysuru','Nadiad','Nagaon','Nagapattinam','Nagpur','Nanded','Nashik','Navi Mumbai',
+  'Nellore','Nizamabad','Noida','Panaji','Panipat','Patiala','Patna','Pondicherry','Prayagraj','Pune',
+  'Puri','Raebareli','Raichur','Raipur','Rajahmundry','Rajkot','Rajnandgaon','Ramanathapuram','Ranchi','Ratlam',
+  'Rewa','Rishikesh','Rohtak','Rourkela','Sagar','Salem','Sambalpur','Sangli','Satara','Satna',
+  'Shahjahanpur','Shillong','Shimla','Shivamogga','Sikar','Siliguri','Silchar','Sivakasi','Solapur','Sonipat',
+  'Srinagar','Surat','Surendranagar','Thane','Thanjavur','Thiruvananthapuram','Thrissur','Tiruchirappalli','Tirunelveli','Tirupati',
+  'Udaipur','Udupi','Ujjain','Vadodara','Varanasi','Vellore','Vijayawada','Visakhapatnam','Warangal','Yamunanagar'
+];
